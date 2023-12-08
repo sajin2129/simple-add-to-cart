@@ -1,0 +1,85 @@
+{
+    "products":[
+        {
+            "id":"1",
+            "image":"./images/menu-item-1.png",
+            "name":"lappy",
+            "price":"34"
+        }, {
+            "id":"2",
+            "image":"./images/menu-item-1.png",
+            "name":"pizza",
+            "price":"43"
+        }, {
+            "id":"3",
+            "image":"./images/menu-item-1.png",
+            "name":"burger",
+            "price":"77"
+        }, {
+            "id":"4",
+            "image":"./images/menu-item-1.png",
+            "name":"momos",
+            "price":"65"
+        }, {
+            "id":"5",
+            "image":"./images/menu-item-1.png",
+            "name":"chips",
+            "price":"69"
+        }, {
+            "id":"6",
+            "image":"./images/menu-item-1.png",
+            "name":"noodles",
+            "price":"44"
+        }, {
+            "id":"7",
+            "image":"./images/menu-item-1.png",
+            "name":"bread omelete",
+            "price":"87"
+        }, {
+            "id":"8",
+            "image":"./images/menu-item-1.png",
+            "name":"dried gril",
+            "price":"54"
+        }, {
+            "id":"9",
+            "image":"./images/menu-item-1.png",
+            "name":"veg rice",
+            "price":"21"
+        }, {
+            "id":"10",
+            "image":"./images/menu-item-1.png",
+            "name":"lemonid",
+            "price":"66"
+        }, {
+            "id":"11",
+            "image":"./images/menu-item-1.png",
+            "name":"legon",
+            "price":"54"
+        }, {
+            "id":"12",
+            "image":"./images/menu-item-1.png",
+            "name":"mango diee",
+            "price":"46"
+        }, {
+            "id":"13",
+            "image":"./images/menu-item-1.png",
+            "name":"pasta",
+            "price":"50"
+        }, {
+            "id":"14",
+            "image":"./images/menu-item-1.png",
+            "name":"mushroom",
+            "price":"15"
+        }, {
+            "id":"15",
+            "image":"./images/menu-item-1.png",
+            "name":"manchurian",
+            "price":"120"
+        }, {
+            "id":"16",
+            "image":"./images/menu-item-1.png",
+            "name":"manchurian",
+            "price":"2"
+        }
+    ]
+}

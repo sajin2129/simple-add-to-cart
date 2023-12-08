@@ -1,0 +1,148 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: all 0.5s;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(218, 217, 216, 0.436);
+    padding: 20px;
+    overflow: hidden;
+}
+
+.navbar {
+    width: 90%;
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+
+.cart {
+    width: 40px;
+    height: 40px;
+    position: relative;
+    border-radius: 6px;
+    background-color: red;
+
+}
+
+.cart span {
+    position: absolute;
+    z-index: 3;
+    top: -6;
+    left: -6;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.cards {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+
+.card {
+    width: 20%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    padding: 40px 20px;
+    border-radius: 8px;
+}
+
+.image {
+    width: 90%;
+    height: 100px;
+
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    filter: drop-shadow(0 50px 20px #0009);
+
+}
+.aadtocarts{
+    background-color: rgb(66, 65, 65);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    position: absolute;
+    z-index: 4;
+    top: 50px;
+    right: -94px;
+}
+.aadtocart{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  
+
+}
+.pro:nth-child(even){
+    background-color: rgb(30, 30, 30);
+
+}
+
+.cartshow .aadtocarts{
+    background-color: rgb(66, 65, 65);
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    position: absolute;
+    z-index: 4;
+    top: 50px;
+    right: -600px;
+}
+.pro{
+    color: white;
+    width: 90%;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+.imge{
+    width: 30px;
+    height: 30px;
+}
+.imge img{
+    width: 100%;
+    height: 100%;
+}
+.btns button{
+    border-radius: 100%;
+    width: 25px;
+    height: 25px;
+}
+.btn{
+    width: 90%;
+    display: flex;
+    margin-bottom: 20px;
+    
+}
+.btn button{
+    width: 49%;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    font-size: 20px;
+    background-color: rgba(255, 255, 0, 0.493);
+}
